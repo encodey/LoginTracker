@@ -1,7 +1,10 @@
 {
-    "latestVersion": "1.0.5",
+    "latestVersion": "1.0.7",
     "changelog": [
-        "Added update checker and refactored code."
+        "Added update checker",
+        "refactored code",
+        "changed some config stuff",
+        "made ilovecatgirls.xyz work"
     ],
     "author": "encodey"
 }
