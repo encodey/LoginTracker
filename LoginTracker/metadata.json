@@ -1,9 +1,0 @@
-{
-    "name":"LoginTracker",
-    "author": "encodey",
-    "entry": "index.js",
-    "version": "1.0.6",
-    "description": "acc share stuff",
-    "requires": ["requestV2", "Vigilance"]
-  }
-  
