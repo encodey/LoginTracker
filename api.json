@@ -1,5 +1,5 @@
 {
-    "latestVersion": "1.09",
+    "latestVersion": "1.0.9",
     "changelog": [
         "added general toggle",
         "added ability to set webhook link"
