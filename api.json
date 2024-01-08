@@ -1,11 +1,8 @@
 {
-    "latestVersion": "1.0.8",
+    "latestVersion": "1.09",
     "changelog": [
-        "Added update checker",
-        "refactored code",
-        "changed some config stuff",
-        "made ilovecatgirls.xyz work",
-        "fixed msgs not sending"
+        "added general toggle",
+        "added ability to set webhook link"
     ],
     "author": "encodey"
 }
