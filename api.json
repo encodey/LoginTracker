@@ -1,8 +1,8 @@
 {
-    "latestVersion": "1.0.9",
+    "latestVersion": "1.1.0",
     "changelog": [
-        "added general toggle",
-        "added ability to set webhook link"
+        "fixed avatars by swapping to a different api",
+        "added the aliases /login /ltracker and /ltr"
     ],
     "author": "encodey"
 }
